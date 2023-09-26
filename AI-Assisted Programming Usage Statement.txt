@@ -1,0 +1,3 @@
+After I finished the layout of the fundamental framework, I divided the program into small modules, then used AI-assisted programming to quick generate code for each module, after which put them collectively, just like putting together a puzzle. Because of this, I no longer needed to consult a professional or consult forums when there was a programming trouble. It not only saved me a lot of time and energy, but also allowed me to focus on the core task of my project.
+
+If there's any doubt, I'll be happy to clarify.
